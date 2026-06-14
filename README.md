@@ -15,4 +15,4 @@ El tercer (TFM-RMAT-EDA.ipynb) contiene el analisis exploratorio de datos sobre 
 
 Y el último (TFM-RMAT-RESULTADOS.ipynb) incluye los algoritmos UMAP, HDBSCAN hasta llegar al clasificador difuso. 
 
-
+Las bases usadas en TFM_RMAT_DATOS.ipynb son las presentadas por https://arxiv.org/abs/2407.08692 
